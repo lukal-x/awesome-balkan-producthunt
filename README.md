@@ -9,9 +9,10 @@ Balkan/Adria/EXYU+ region needs its own platform for launching digital products.
 - [How to launch your product here](#How)
 - [Tags](#Tags)
 - [Categories](#Categories)
-  - [Budget tracking](#Budget tracking)
+  - [Books](#books)
+  - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
-  - [Project management](#Project management)
+  - [Project management](#project-management)
 
 ## How
 
@@ -35,6 +36,10 @@ Arbitrary tags MUST NOT be added via PRs, to suggest a new tag open a PR which *
 ## Categories
 
 and subcategories, we'll keep adding and nesting them as we go along I guess;
+
+### Books
+
+- https://www.designedbydarmar.com/inside-44 10 years. One artist. No team. Rejected by studios. Ignored by publishers. Built alone 544 pages - released to the world.
 
 ### Budget tracking
 
