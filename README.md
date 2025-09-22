@@ -13,6 +13,7 @@ Balkan/Adria/EXYU+ region needs its own platform for launching digital products.
   - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
   - [Project management](#project-management)
+  - [Talent platforms](#talent-platforms)
 
 ## How
 
@@ -52,3 +53,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Project management
 
 - https://operately.com/ Other tools give you a blank canvas and no structure. Operately bakes in proven workflows — around goals, projects, and accountability — so your team makes consistent progress every week. 
+
+### Talent platforms
+
+- https://bookbyskill.com/ https://bookbyskill.com/  Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly. 
