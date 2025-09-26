@@ -2,7 +2,7 @@
 
 > NOT IN ANY WAY AFFILIATED WITH PRODUCTHUNT
 
-Balkan/Adria/EXYU+ region needs its own platform for launching digital products. An awesome list will do, for now.
+(BRAINMADE) Balkan/Adria/EXYU+ region needs its own platform for launching digital products. An awesome list will do, for now.
 
 ## Contents
 
