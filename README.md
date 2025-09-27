@@ -44,7 +44,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 ### Budget tracking
 
-...
+- https://famverge.app/  Track expenses, collaborate securely, and manage your group finances with ease. Powered by AI and protected by end-to-end encryption. 
 
 ### e-readers
 
@@ -56,4 +56,4 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 ### Talent platforms
 
-- https://bookbyskill.com/ https://bookbyskill.com/  Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly. 
+- https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly. 
