@@ -56,4 +56,5 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 ### Talent platforms
 
-- https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly. 
+- https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
+- https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
