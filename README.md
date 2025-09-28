@@ -1,8 +1,11 @@
 # awesome-balkan-produchunt
 
+![](88x31-dark.png)
+![](88x31-light.png)
+
 > NOT IN ANY WAY AFFILIATED WITH PRODUCTHUNT
 
-(BRAINMADE) Balkan/Adria/EXYU+ region needs its own platform for launching digital products. An awesome list will do, for now.
+(BRAINMADE) Balkan/Adria/EXYU+ region needs its own platform for launching digital products. An awesome list will do, for now. 
 
 ## Contents
 
@@ -11,6 +14,7 @@
 - [Categories](#Categories)
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
+  - [Communities](#communities)
   - [e-readers](#e-readers)
   - [Project management](#project-management)
   - [Talent platforms](#talent-platforms)
@@ -30,6 +34,7 @@ Tags can be appended to an entry like so:
 Tags currently in use are:
 
 - [privacy]
+- [FORSALE]
 - ...
 
 Arbitrary tags MUST NOT be added via PRs, to suggest a new tag open a PR which **only** adds the tag to the list above.
@@ -46,6 +51,11 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://famverge.app/  Track expenses, collaborate securely, and manage your group finances with ease. Powered by AI and protected by end-to-end encryption. 
 
+### Communities
+
+- https://x.com/i/communities/1969513397432586597 Balkan Indie Founders: A hub for Balkan builders to connect, share, and grow - together
+- https://www.reddit.com/r/itbiznis zajednica za sve IT preduzetnike, startap osnivače, frilensere i entuzijaste koji žele da grade uspešan tech biznis
+
 ### e-readers
 
 - https://bookerei.com/  Effortlessly read, organize, and manage your ePub and PDF collections. For Windows & MacOS. 
@@ -57,4 +67,4 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Talent platforms
 
 - https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
-- https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
+- [FORSALE] https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
