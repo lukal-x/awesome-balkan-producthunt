@@ -14,11 +14,13 @@
 - [Categories](#Categories)
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
-  - [Communities](#communities)
   - [e-readers](#e-readers)
   - [Newsletters](#newsletters)
   - [Project management](#project-management)
   - [Talent platforms](#talent-platforms)
+  - [Other](#other)
+    - [Communities](#communities)
+    - [Teams](#teams)
 
 ## How
 
@@ -52,11 +54,6 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://famverge.app/  Track expenses, collaborate securely, and manage your group finances with ease. Powered by AI and protected by end-to-end encryption. 
 
-### Communities
-
-- https://x.com/i/communities/1969513397432586597 Balkan Indie Founders: A hub for Balkan builders to connect, share, and grow - together
-- https://www.reddit.com/r/itbiznis zajednica za sve IT preduzetnike, startap osnivače, frilensere i entuzijaste koji žele da grade uspešan tech biznis
-
 ### e-readers
 
 - https://bookerei.com/  Effortlessly read, organize, and manage your ePub and PDF collections. For Windows & MacOS. 
@@ -74,6 +71,15 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 - https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
 - [FORSALE] https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
 
-### Teams
+### Other
+
+Everything that isn't technically a product but is loosely related;
+
+#### Communities
+
+- https://x.com/i/communities/1969513397432586597 Balkan Indie Founders: A hub for Balkan builders to connect, share, and grow - together
+- https://www.reddit.com/r/itbiznis zajednica za sve IT preduzetnike, startap osnivače, frilensere i entuzijaste koji žele da grade uspešan tech biznis
+
+#### Teams
 
 - https://scaletapp.com/ Your MVP should take weeks. Not quarters.
