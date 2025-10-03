@@ -16,6 +16,7 @@
   - [Budget tracking](#budget-tracking)
   - [Communities](#communities)
   - [e-readers](#e-readers)
+  - [Newsletters](#newsletters)
   - [Project management](#project-management)
   - [Talent platforms](#talent-platforms)
 
@@ -60,6 +61,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://bookerei.com/  Effortlessly read, organize, and manage your ePub and PDF collections. For Windows & MacOS. 
 
+### Newsletters
+
+- ...
+
 ### Project management
 
 - https://operately.com/ Other tools give you a blank canvas and no structure. Operately bakes in proven workflows — around goals, projects, and accountability — so your team makes consistent progress every week. 
@@ -68,3 +73,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
 - [FORSALE] https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
+
+### Teams
+
+- https://scaletapp.com/ Your MVP should take weeks. Not quarters.
