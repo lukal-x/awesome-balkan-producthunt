@@ -52,7 +52,8 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 ### Budget tracking
 
-- https://famverge.app/  Track expenses, collaborate securely, and manage your group finances with ease. Powered by AI and protected by end-to-end encryption. 
+- https://famverge.app/  Track expenses, collaborate securely, and manage your group finances with ease. Powered by AI and protected by end-to-end encryption.
+- https://budgero.app/ Take back control of Your Money
 
 ### e-readers
 
