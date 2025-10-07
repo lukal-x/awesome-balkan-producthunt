@@ -84,3 +84,4 @@ Everything that isn't technically a product but is loosely related;
 #### Teams
 
 - https://scaletapp.com/ Your MVP should take weeks. Not quarters.
+- https://coolkatz.co/ Dev & design on demand. A 2-man team shipping world class products fast
