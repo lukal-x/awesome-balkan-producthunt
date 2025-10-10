@@ -79,7 +79,7 @@ Everything that isn't technically a product but is loosely related;
 #### Communities
 
 - https://x.com/i/communities/1969513397432586597 Balkan Indie Founders: A hub for Balkan builders to connect, share, and grow - together
-- https://www.reddit.com/r/itbiznis zajednica za sve IT preduzetnike, startap osnivače, frilensere i entuzijaste koji žele da grade uspešan tech biznis
+- https://boarventurers.com/ Bez obzira da li si student, preduzetnik, umetnik, radoznali kreativac ili korporativni mentor – ako si ovde jer želiš da deliš, učiš i rasteš – dobrodošao/la si među nas.
 
 #### Teams
 
