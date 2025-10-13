@@ -17,6 +17,7 @@
   - [e-readers](#e-readers)
   - [Newsletters](#newsletters)
   - [Project management](#project-management)
+  - [Social media](#social-media)
   - [Talent platforms](#talent-platforms)
   - [Other](#other)
     - [Communities](#communities)
@@ -66,6 +67,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Project management
 
 - https://operately.com/ Other tools give you a blank canvas and no structure. Operately bakes in proven workflows — around goals, projects, and accountability — so your team makes consistent progress every week. 
+
+### Social media
+
+- https://misfitlinks.me/ Build stunning cyberpunk-style link pages for free. Unlimited pages, cyberpunk themes, and advanced analytics. Stand out from the crowd with our futuristic templates.
 
 ### Talent platforms
 
