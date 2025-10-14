@@ -16,6 +16,7 @@
   - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
   - [Newsletters](#newsletters)
+  - [Price tracking](#price-tracking)
   - [Project management](#project-management)
   - [Social media](#social-media)
   - [Talent platforms](#talent-platforms)
@@ -63,6 +64,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Newsletters
 
 - ...
+
+### Price tracking
+
+- https://znamcenite.bg/ Сайтът проследява как се променят цените на продуктите в България през годините, използвайки годишните данни, събирани от Националния Статистически Институт. Целта на сайта е да информира и да бъде основа за бъдещи сравнения след въвеждането на еврото.
 
 ### Project management
 
