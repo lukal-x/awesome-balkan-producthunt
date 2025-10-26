@@ -15,6 +15,7 @@
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
+  - [Human resources](#human-resources)
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
   - [Project management](#project-management)
@@ -60,6 +61,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### e-readers
 
 - https://bookerei.com/  Effortlessly read, organize, and manage your ePub and PDF collections. For Windows & MacOS. 
+
+### Human resources
+
+- https://evalico.com Evalico is performance management software for small and medium teams. Run structured, fair, and fully automated review cycles—without the chaos. Turn feedback into insights and measurable progress in minutes, not weeks.
 
 ### Newsletters
 
