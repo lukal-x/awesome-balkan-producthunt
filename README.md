@@ -23,6 +23,7 @@
   - [Talent platforms](#talent-platforms)
   - [Other](#other)
     - [Communities](#communities)
+    - [Services](#services)
     - [Teams](#teams)
 
 ## How
@@ -95,6 +96,10 @@ Everything that isn't technically a product but is loosely related;
 
 - https://www.reddit.com/r/itbiznis zajednica za sve IT preduzetnike, startap osnivače, frilensere i entuzijaste koji žele da grade uspešan tech biznis
 - https://boarventurers.com/ Bez obzira da li si student, preduzetnik, umetnik, radoznali kreativac ili korporativni mentor – ako si ovde jer želiš da deliš, učiš i rasteš – dobrodošao/la si među nas.
+
+#### Services
+
+- https://sprawsm.com/ In-House design teams are a distraction to your core competencies, design AI is a carrot on a stick, and creative agencies are operationally stuck in the 90s. Design becomes a business asset only when you find a partner who can make it work for you.
 
 #### Teams
 
