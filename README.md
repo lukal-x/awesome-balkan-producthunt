@@ -19,6 +19,7 @@
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
   - [Project management](#project-management)
+  - [Service tracking](#service-tracking)
   - [Social media](#social-media)
   - [Talent platforms](#talent-platforms)
   - [Other](#other)
@@ -78,6 +79,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Project management
 
 - https://operately.com/ Other tools give you a blank canvas and no structure. Operately bakes in proven workflows — around goals, projects, and accountability — so your team makes consistent progress every week. 
+
+### Service tracking
+
+- https://obavesti.rs/ Jednostavna aplikacija koja ti javlja kada dođe do prekida u snabdevanju električnom energijom ili vodom — u tvom gradu.
 
 ### Social media
 
