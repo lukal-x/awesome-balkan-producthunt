@@ -15,6 +15,7 @@
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
+  - [Games](#games)
   - [Human resources](#human-resources)
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
@@ -63,6 +64,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### e-readers
 
 - https://bookerei.com/  Effortlessly read, organize, and manage your ePub and PDF collections. For Windows & MacOS. 
+
+### Games
+
+- https://store.steampowered.com/app/1211980/Skopje_83/ SKOPJE '83 - Explore a city thrust into disarray by an unknown event and survive the hordes of mutated abominations that lurk at every corner. You’ll have to fight through enemies & bosses, scavenge loot and survive the hostile city. 
 
 ### Human resources
 
