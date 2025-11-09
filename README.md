@@ -12,6 +12,7 @@
 - [How to launch your product here](#How)
 - [Tags](#Tags)
 - [Categories](#Categories)
+  - [Auctions](#auctions)
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
@@ -51,6 +52,10 @@ Arbitrary tags MUST NOT be added via PRs, to suggest a new tag open a PR which *
 ## Categories
 
 and subcategories, we'll keep adding and nesting them as we go along I guess;
+
+### Auctions
+
+- https://autoaukcije.com/ Budući Klasici Aukcije ti pružaju priliku da automobil ponudiš ozbiljnim kupcima ili da kupiš automobil koji je Borko lično proverio.
 
 ### Books
 
