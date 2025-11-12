@@ -18,6 +18,7 @@
   - [e-readers](#e-readers)
   - [Games](#games)
   - [Human resources](#human-resources)
+  - [Learning management](#learning-management)
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
   - [Project management](#project-management)
@@ -79,9 +80,13 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://evalico.com Evalico is performance management software for small and medium teams. Run structured, fair, and fully automated review cycles—without the chaos. Turn feedback into insights and measurable progress in minutes, not weeks.
 
+### Learning management
+
+- https://studystorage.com/ Study Storage ti omogućava da lako kreiraš i objaviš svoje kurseve. Sopstveni veb-sajt, video hosting i upravljanje kursevima na jednoj platformi. 
+
 ### Newsletters
 
-- ...
+- https://zalet.fun/ Krenuli smo kao podkast, pa izrasli u nešto više. Naša misija je da dizajnerima — i onima koji rade sa njima — pružimo prostor za učenje, napredovanje i povezivanje, jer zajednica raste samo ako rastemo zajedno.
 
 ### Price tracking
 
