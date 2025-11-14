@@ -12,6 +12,7 @@
 - [How to launch your product here](#How)
 - [Tags](#Tags)
 - [Categories](#Categories)
+  - [Aggregators](#aggregators)
   - [Auctions](#auctions)
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
@@ -53,6 +54,10 @@ Arbitrary tags MUST NOT be added via PRs, to suggest a new tag open a PR which *
 ## Categories
 
 and subcategories, we'll keep adding and nesting them as we go along I guess;
+
+### Aggregators
+
+- https://dialog.mk/ Најновите македонски поткаст епизоди, достапни на едно место!
 
 ### Auctions
 
