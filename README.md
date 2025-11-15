@@ -92,6 +92,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Newsletters
 
 - https://zalet.fun/ Krenuli smo kao podkast, pa izrasli u nešto više. Naša misija je da dizajnerima — i onima koji rade sa njima — pružimo prostor za učenje, napredovanje i povezivanje, jer zajednica raste samo ako rastemo zajedno.
+- https://markodenic.tech/newsletter/  Real-life web development tips and resources, directly to your inbox. 
 
 ### Price tracking
 
