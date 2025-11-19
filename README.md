@@ -1,4 +1,4 @@
-# awesome-balkan-produchunt
+# awesome-balkan-producthunt
 
 ![](88x31-dark.png)
 ![](88x31-light.png)
