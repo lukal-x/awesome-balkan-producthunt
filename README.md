@@ -12,6 +12,7 @@
 - [How to launch your product here](#How)
 - [Tags](#Tags)
 - [Categories](#Categories)
+  - [Ad platforms](#ad-platforms)
   - [Aggregators](#aggregators)
   - [Auctions](#auctions)
   - [Books](#books)
@@ -26,6 +27,7 @@
   - [Service tracking](#service-tracking)
   - [Social media](#social-media)
   - [Talent platforms](#talent-platforms)
+  - [Web browsers](#web-brosers)
   - [Other](#other)
     - [Communities](#communities)
     - [Services](#services)
@@ -54,6 +56,10 @@ Arbitrary tags MUST NOT be added via PRs, to suggest a new tag open a PR which *
 ## Categories
 
 and subcategories, we'll keep adding and nesting them as we go along I guess;
+
+### Ad platforms
+
+...
 
 ### Aggregators
 
@@ -115,6 +121,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
 - [FORSALE] https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
+
+### Web browsers
+
+- https://orionbrowser.com/ Orion — a web browser designed from the ground-up.Native WebKit speed, full extension compatibility, and absolute privacyis finally together in one browser that respects you.
 
 ### Other
 
