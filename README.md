@@ -116,6 +116,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Social media
 
 - https://misfitlinks.me/ Build stunning cyberpunk-style link pages for free. Unlimited pages, cyberpunk themes, and advanced analytics. Stand out from the crowd with our futuristic templates.
+- https://www.devconnect.forum/ DevConnect is the new home for developers seeking community, learning, and projects sharing.
 
 ### Talent platforms
 
