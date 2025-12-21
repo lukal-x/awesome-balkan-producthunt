@@ -26,7 +26,7 @@
   - [Project management](#project-management)
   - [Service tracking](#service-tracking)
   - [Social media](#social-media)
-  - [Talent platforms](#talent-platforms)
+  - [Talent platforms and jobs](#talent-platforms-and-jobs)
   - [Web browsers](#web-brosers)
   - [Other](#other)
     - [Communities](#communities)
@@ -118,9 +118,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 - https://misfitlinks.me/ Build stunning cyberpunk-style link pages for free. Unlimited pages, cyberpunk themes, and advanced analytics. Stand out from the crowd with our futuristic templates.
 - https://www.devconnect.forum/ DevConnect is the new home for developers seeking community, learning, and projects sharing.
 
-### Talent platforms
+### Talent platforms and jobs
 
 - https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
+- https://jobtrakify-home.vercel.app/ Track Your Job Applications Like Never Before The modern, intelligent way to manage your job search. Stay organized, track progress, and land your dream job faster with JobTrakify.
 - [FORSALE] https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
 
 ### Web browsers
