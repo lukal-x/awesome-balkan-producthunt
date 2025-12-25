@@ -26,6 +26,7 @@
   - [Project management](#project-management)
   - [Service tracking](#service-tracking)
   - [Social media](#social-media)
+  - [Sports](#sports)
   - [Talent platforms and jobs](#talent-platforms-and-jobs)
   - [Web browsers](#web-brosers)
   - [Other](#other)
@@ -117,6 +118,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://misfitlinks.me/ Build stunning cyberpunk-style link pages for free. Unlimited pages, cyberpunk themes, and advanced analytics. Stand out from the crowd with our futuristic templates.
 - https://www.devconnect.forum/ DevConnect is the new home for developers seeking community, learning, and projects sharing.
+
+### Sports
+
+- https://termini.info/ Igraš termin i volio bi platformu na kojoj ćes pratiti prijave i rezultate? Kreiraj novu ligu i podijeli kod sa svojim prijateljima! Besplatno i bez prijave. Zapamti samo kod.
 
 ### Talent platforms and jobs
 
