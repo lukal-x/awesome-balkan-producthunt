@@ -113,6 +113,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Service tracking
 
 - https://obavesti.rs/ Jednostavna aplikacija koja ti javlja kada dođe do prekida u snabdevanju električnom energijom ili vodom — u tvom gradu.
+- https://testflight.apple.com/join/wJtXRxZr Glavna razlika ove i ostalih aplikacija slicnog tipa je istorija cena. [...] Tako dobijamo kompletnu sliku pretplate, uvid u prethodnu potrosnju, projektovane troskove
 
 ### Social media
 
