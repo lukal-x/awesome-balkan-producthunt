@@ -20,6 +20,7 @@
   - [e-readers](#e-readers)
   - [Games](#games)
   - [Human resources](#human-resources)
+  - [Hospitality](#hospitality)
   - [Learning management](#learning-management)
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
@@ -92,6 +93,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Human resources
 
 - https://evalico.com Evalico is performance management software for small and medium teams. Run structured, fair, and fully automated review cycles—without the chaos. Turn feedback into insights and measurable progress in minutes, not weeks.
+
+### Hospitality
+
+- https://tastedeck.app Discover amazing restaurants recommended by real eaters near you.
 
 ### Learning management
 
