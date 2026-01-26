@@ -128,6 +128,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Sports
 
 - https://termini.info/ Igraš termin i volio bi platformu na kojoj ćes pratiti prijave i rezultate? Kreiraj novu ligu i podijeli kod sa svojim prijateljima! Besplatno i bez prijave. Zapamti samo kod.
+- https://planinarske-akcije.com Sve outdoor aktivnosti na jednom mestu: Visokogorstvo, Ferrata, Skijanje, i više!
 
 ### Talent platforms and jobs
 
