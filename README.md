@@ -133,7 +133,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Talent platforms and jobs
 
 - https://bookbyskill.com/ Connect with skilled digital professionals for your projects. From web development to design, marketing to consulting - book the right talent instantly.
-- https://jobtrakify-home.vercel.app/ Track Your Job Applications Like Never Before The modern, intelligent way to manage your job search. Stay organized, track progress, and land your dream job faster with JobTrakify.
+- https://aplicirano.com/en Aplicirano - lakši način da pratiš prijave za posao  Sve tvoje prijave, statistika i pametni alati na jednom mestu. Bez haosa. Bez gubljenja vremena. Bez zaboravljenih prijava.
 - [FORSALE] https://remoteposlovi.com A curated collection of remote jobs crafted for talent from Serbia, Croatia, Bosnia, and Montenegro.
 
 ### Web browsers
