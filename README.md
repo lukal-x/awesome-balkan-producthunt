@@ -18,6 +18,7 @@
   - [Books](#books)
   - [Budget tracking](#budget-tracking)
   - [e-readers](#e-readers)
+  - [Exchanges](#exchanges)
   - [Games](#games)
   - [Human resources](#human-resources)
   - [Hospitality](#hospitality)
@@ -83,6 +84,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### e-readers
 
 - https://bookerei.com/  Effortlessly read, organize, and manage your ePub and PDF collections. For Windows & MacOS. 
+
+### Exchanges
+
+- https://bigusbukus.com - platforma za razmenu knjiga gde ljubitelji knjiga mogu lako da razmenjuju svoje knjige sa drugima. Umesto da knjige skupljaju prašinu na policama, BigusBukus vam omogućava da ih razmenite za druge knjige koje želite da pročitate!
 
 ### Games
 
