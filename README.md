@@ -93,7 +93,8 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 
 - https://store.steampowered.com/app/4026060/All_Roads_Connected/  Relax, explore, and progress at your own pace in this pixel art city builder; Manage over 20 resources gathered from your countless towns; Spread across an endless, randomly generated map.
 - https://store.steampowered.com/app/3638920/CastleOn/ CastleOn  Build a castle! Grow economy, recruit troops from Europe and the Holy Land, man the walls and towers! Place traps and defeat attackers with arrows, wood and stone, fire, disease and cold steel! Survive the Third Crusade and conquer enemy lands in Castleon!
-- https://store.steampowered.com/app/1211980/Skopje_83/ SKOPJE '83 - Explore a city thrust into disarray by an unknown event and survive the hordes of mutated abominations that lurk at every corner. You’ll have to fight through enemies & bosses, scavenge loot and survive the hostile city. 
+- https://store.steampowered.com/app/1211980/Skopje_83/ SKOPJE '83 - Explore a city thrust into disarray by an unknown event and survive the hordes of mutated abominations that lurk at every corner. You’ll have to fight through enemies & bosses, scavenge loot and survive the hostile city.
+- https://fixai.dev -  DENIED. Now fight back. 50 AI systems made the wrong call. Your flight cancelled. Card blocked. Application rejected. Surgery denied. You have limited messages to change the machine's mind. Type legal arguments → AI confidence drops → win when it hits zero.
 
 ### Human resources
 
