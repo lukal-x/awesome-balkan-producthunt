@@ -26,6 +26,7 @@
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
   - [Project management](#project-management)
+  - [Real estate](#real-estate)
   - [Service tracking](#service-tracking)
   - [Social media](#social-media)
   - [Sports](#sports)
@@ -120,6 +121,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Project management
 
 - https://operately.com/ Other tools give you a blank canvas and no structure. Operately bakes in proven workflows — around goals, projects, and accountability — so your team makes consistent progress every week. 
+
+### Real estate
+
+- https://unrealestate.rs - Unreal Estate | Svi stanovi u Beogradu na jednom mestu
 
 ### Service tracking
 
