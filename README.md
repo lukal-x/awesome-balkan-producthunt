@@ -23,6 +23,7 @@
   - [Human resources](#human-resources)
   - [Hospitality](#hospitality)
   - [Learning management](#learning-management)
+  - [Observability](#observability)
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
   - [Project management](#project-management)
@@ -108,6 +109,10 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Learning management
 
 - https://studystorage.com/ Study Storage ti omogućava da lako kreiraš i objaviš svoje kurseve. Sopstveni veb-sajt, video hosting i upravljanje kursevima na jednoj platformi. 
+
+### Observability
+
+- https://tracewayapp.com Observability that closes the loop.
 
 ### Newsletters
 
