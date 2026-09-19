@@ -23,6 +23,7 @@
   - [Human resources](#human-resources)
   - [Hospitality](#hospitality)
   - [Learning management](#learning-management)
+  - [Marketplaces](#marketplaces)
   - [Observability](#observability)
   - [Newsletters](#newsletters)
   - [Price tracking](#price-tracking)
@@ -109,6 +110,19 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Learning management
 
 - https://studystorage.com/ Study Storage ti omogućava da lako kreiraš i objaviš svoje kurseve. Sopstveni veb-sajt, video hosting i upravljanje kursevima na jednoj platformi. 
+
+### Marketplaces
+
+- zento.rs Besplatni mali oglasi bez limita
+- montelot.com Montelot is a peer-to-peer marketplace for buying, selling, and exchanging goods and services in Serbia.
+- oglasipametno.com Vaš pouzdan portal za besplatne male oglase. Pregledajte i postavite oglase za automobile, nekretnine, elektroniku i još mnogo toga.
+- digimarket.rs Kupuj i prodaj elektroniku i IT opremu u Srbiji. AI-podržana pretraga sa detaljnim specifikacijama.
+- zidbg.com  Lako postavljanje oglasa, moze i na mapi, bez logina i placanja. Emulacija zidova Beograda polepljenih oglasima.
+- megaoglasi.com Besplatni mali oglasi u Srbiji — kupujem i prodajem na jednom mestu. Automobili, nekretnine, elektronika, nameštaj i hiljade kategorija.
+- vondi.rs Buy, Sell, Deliver in Serbia
+- zajamnajam.com TV, Audio, Video. Nameštaj. Bela tehnika. Sportska oprema. Odeća. Alati. Dečija oprema. Proslave i žurke. Nekretnine. Turizam.
+- vinto.rs Kupi i prodaj polovnu i novu garderobu, obuću, patike, aksesoare, parfeme, mobilne telefone i još mnogo toga na Vintu.
+- hok.rs Vaš novi marketplace. Kupujte i prodajte sve što vam treba na jednom mestu.
 
 ### Observability
 
