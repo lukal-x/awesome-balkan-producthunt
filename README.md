@@ -136,6 +136,7 @@ and subcategories, we'll keep adding and nesting them as we go along I guess;
 ### Price tracking
 
 - https://znamcenite.bg/ Сайтът проследява как се променят цените на продуктите в България през годините, използвайки годишните данни, събирани от Националния Статистически Институт. Целта на сайта е да информира и да бъде основа за бъдещи сравнения след въвеждането на еврото.
+- https://tprice.app Uporedi cene u supermarketima u Srbiji i Hrvatskoj. Pretraži proizvod ili skeniraj barkod, vidi cenu u svakoj prodavnici u svom gradu, pogledaj istoriju cena za šest meseci i složi korpu da vidiš gde je najjeftinije. Cene su iz zvaničnih cenovnika trgovaca. Besplatno, iOS i Android.
 
 ### Project management
 
